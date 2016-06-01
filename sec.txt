@@ -12,3 +12,5 @@ conflict resolution
 >>>>>>> feature1
 
 giligili eye
+
+stash
