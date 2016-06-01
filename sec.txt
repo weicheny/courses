@@ -5,4 +5,8 @@ awefwef
 
 dev added
 
+<<<<<<< HEAD
 master conflict
+=======
+conflict resolution
+>>>>>>> feature1
